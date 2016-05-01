@@ -9,7 +9,7 @@ http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL205/PROFILE05.m3u8?totalplay=
 http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL207/PROFILE05.m3u8?totalplay=%2F.tstotalpley=%2F.ts
 #EXTINF:-1 tvg-id="Total-MX_I209.35817.tutvguia.com" tvg-name="209_FXHD209FXHDFX_Latin_America_HDTV_(DIRECTV)" tvg-logo="fx.png" group-title="Latino",FX HD
 http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL209/PROFILE05.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Total-MX_I259.5041.tutvguia.com" tvg-name="259_A&E259A&EA&E_(Mexico)" tvg-logo="a&e.png" group-title="Latino",A&E
+#EXTINF:-1 tvg-id="Total-MX_I259.5041.tutvguia.com" tvg-name="259_A&E259A&EA&E_(Mexico)" tvg-logo=”http://latino-webtv.com/iptv/logos/a&e.png” group-title="Latino",A&E
 http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL211/PROFILE05.m3u8?totalplay=%2F.ts
 #EXTINF:-1 tvg-id="Total-MX_I213.30579.tutvguia.com" tvg-name="213_AXNHD213AXNHDAXN_Latin_America_HDTV" tvg-logo="AXN.png" group-title="Latino",AXN HD
 http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL213/PROFILE05.m3u8?totalplay=%2F.ts
