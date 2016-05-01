@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 http://0.0.0.0:1234
 
 #EXTM3U
-#EXTINF:0,DISCOVERY CHANNEL
+#EXTINF:0,tvg-logo=”http://puu.sh/mwdJK/56778a2cd7.png”DISCOVERY CHANNEL
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
 #EXTINF:0,DISCOVERY THEATER
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
