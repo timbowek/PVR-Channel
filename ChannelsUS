@@ -671,31 +671,3 @@ http://evolive-tv.com:8000/live/genio/genio/67.m3u8
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
 #EXTINF:-1,SPORTS:SPORT  SPORT TIME TV 2HQ GERMANY
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
-
-#EXTINF:-1,[COLOR red]---PREMIUM---SPANISH[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1,[COLOR blue]Fox[/COLOR] 
-http://iptvbox.noip.us:9998/live/atik/atik/264.m3u8
-#EXTINF:-1,[COLOR blue]Discovery Channel[/COLOR]
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,[COLOR blue]Travel Channel[/COLOR]
-http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
-#EXTINF:-1,[COLOR blue]National Geographic[/COLOR]
-http://iptvbox.noip.us:9998/live/atik/atik/267.m3u8
-#EXTINF:-1,[COLOR blue]Canal Estrenos[/COLOR]
-http://iptvbox.noip.us:9998/live/atik/atik/587.m3u8
-#EXTINF:-1,[COLOR blue]Canal Series[/COLOR]
-http://iptvbox.noip.us:9998/live/atik/atik/268.m3u8
-#EXTINF:-1,[COLOR blue]Canal  DCine[/COLOR]
-http://iptvbox.noip.us:9998/live/atik/atik/261.m3u8
-#EXTINF:-1,[COLOR blue]Canal  Comedia[/COLOR]
-http://iptvbox.noip.us:9998/live/atik/atik/275.m3u8
-#EXTINF:-1,[COLOR blue]Canal  Accion[/COLOR]
-http://iptvbox.noip.us:9998/live/atik/atik/262.m3u8
-#EXTINF:-1,[COLOR blue]ES.Canal Xtra[/COLOR]
-http://iptvbox.noip.us:9998/live/atik/atik/586.m3u8
-#EXTINF:-1,[COLOR blue]Hollywood[/COLOR]
-http://iptvbox.noip.us:9998/live/atik/atik/263.m3u8
-#EXTINF:-1,[COLOR blue]Neox[/COLOR]
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
