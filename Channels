@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Total-MX_I251.5022.tutvguia.com" tvg-name="251_FOX251FOXFox_International_(Mexico)" tvg-logo="https://p4.zdassets.com/hc/settings_assets/536515/200063190/T29kosVIKPGdMJKqW7Bkog-White_large.png" group-title="Latino",Fox
 http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL201/PROFILE05.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Total-MX_I252.5048.tutvguia.com" tvg-name="252_SONY252SONYSony_Entertainment_Television_(Mexico)" tvg-logo="sony.png" group-title="Latino",Sony HD
+#EXTINF:-1 tvg-id="Total-MX_I252.5048.tutvguia.com" tvg-name="252_SONY252SONYSony_Entertainment_Television_(Mexico)" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/30/Sony_Entertainment_Television_LA.png" group-title="Latino",Sony HD
 http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL203/PROFILE05.m3u8?totalplay=%2F.ts
 #EXTINF:-1 tvg-id="Total-MX_I205.30578.tutvguia.com" tvg-name="205_WARNERHD205WARNERHDWarner_Channel_Latin_America_HDTV" tvg-logo="warner.png" group-title="Latino",Warner HD
 http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL205/PROFILE05.m3u8?totalplay=%2F.ts
