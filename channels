@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,[COLOR green]--- USA IPTV CHANNELS ---[/COLOR]
-
 #EXTINF:0,DISCOVERY CHANNEL
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
 #EXTINF:0,DISCOVERY THEATER
@@ -267,8 +265,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
 #EXTINF:0,MILENIO
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8
-
-#EXTINF:-1,VIP: US SPACE
+#EXTINF:0,VIP: US SPACE
 http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9085.m3u8
 #EXTINF:-1,VIP: US WWE
 http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9075.m3u8
