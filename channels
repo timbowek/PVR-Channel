@@ -268,72 +268,93 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
 #EXTINF:0,MILENIO
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8
 
-#Extm3u
-#EXTINF:-1,USA_ESPN
-http://www.q7t1.com:8000/live/bk2/bk2/1477.ts
-#EXTINF:-1,USA_FOX_SPORT_2
-http://www.q7t1.com:8000/live/bk2/bk2/1484.ts
-#EXTINF:-1,USA_NBC
-http://www.q7t1.com:8000/live/bk2/bk2/1485.ts
-#EXTINF:-1,USA_FOX_SPORT_1
-http://www.q7t1.com:8000/live/bk2/bk2/1483.ts
-#EXTINF:-1,USA_NBA_TV
-http://www.q7t1.com:8000/live/bk2/bk2/1486.ts
-#EXTINF:-1,USA_NFL
-http://www.q7t1.com:8000/live/bk2/bk2/1492.ts
-#EXTINF:-1,USA_CBS_NEWS_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1491.ts
-#EXTINF:-1,USA_VERSUS_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1490.ts
-#EXTINF:-1,USA_DISCOVERY_SHOWCASE_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1489.ts
-#EXTINF:-1,USA_DISCOVERY_CHANNEL_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1488.ts
-#EXTINF:-1,USA_ID
-http://www.q7t1.com:8000/live/bk2/bk2/1487.ts
-#EXTINF:-1,USA_TSN_1
-http://www.q7t1.com:8000/live/bk2/bk2/1482.ts
-#EXTINF:-1,USA_TSN_2
-http://www.q7t1.com:8000/live/bk2/bk2/1481.ts
-#EXTINF:-1,USA_TSN_3
-http://www.q7t1.com:8000/live/bk2/bk2/1480.ts
-#EXTINF:-1,USA_TSN_4
-http://www.q7t1.com:8000/live/bk2/bk2/1479.ts
-#EXTINF:-1,USA_TSN_5
-http://www.q7t1.com:8000/live/bk2/bk2/1478.ts
-#EXTINF:-1,USA_WORLD_FASHION_HD
-http://www.q7t1.com:8000/live/bk2/bk2/4175.ts
-#EXTINF:-1,USA_SPORT_NET_360
-http://www.q7t1.com:8000/live/bk2/bk2/4168.ts
-#EXTINF:-1,USA_SPORT_NET_1
-http://www.q7t1.com:8000/live/bk2/bk2/4167.ts
-#EXTINF:-1,USA_SHOWTIME_HD
-http://www.q7t1.com:8000/live/bk2/bk2/4176.ts
-#EXTINF:-1,USA_REDBULL_TV
-http://www.q7t1.com:8000/live/bk2/bk2/4166.ts
-#EXTINF:-1,USA_PLANET_GREEN
-http://www.q7t1.com:8000/live/bk2/bk2/4177.ts
-#EXTINF:-1,USA_NBC_GOLF
-http://www.q7t1.com:8000/live/bk2/bk2/4169.ts
-#EXTINF:-1,USA_NASA_TV_HD
-http://www.q7t1.com:8000/live/bk2/bk2/4178.ts
-#EXTINF:-1,USA_MUTE_TV
-http://www.q7t1.com:8000/live/bk2/bk2/4179.ts
-#EXTINF:-1,USA_MIAMI_TV
-http://www.q7t1.com:8000/live/bk2/bk2/4180.ts
-#EXTINF:-1,USA_GOLF_CHANNEL
-http://www.q7t1.com:8000/live/bk2/bk2/4170.ts
-#EXTINF:-1,USA_FASHION_ONE
-http://www.q7t1.com:8000/live/bk2/bk2/4181.ts
-#EXTINF:-1,USA_BYU_SPORTS_TV_HD
-http://www.q7t1.com:8000/live/bk2/bk2/4174.ts
-#EXTINF:-1,USA_ASTRO_SUPERSPORT_3
-http://www.q7t1.com:8000/live/bk2/bk2/4173.ts
-#EXTINF:-1,USA_ASTRO_SUPERSPORT_2
-http://www.q7t1.com:8000/live/bk2/bk2/4172.ts
-#EXTINF:-1,USA_ASTRO_SUPERSPORT_1
-http://www.q7t1.com:8000/live/bk2/bk2/4171.ts
-#EXTINF:-1,USA_AFN_PULSE
-http://www.q7t1.com:8000/live/bk2/bk2/4182.ts
-#EXTINF:-1,USA_AFN_MOVIE
-http://www.q7t1.com:8000/live/bk2/bk2/4183.ts
+#EXTINF:-1,VIP: US SPACE
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9085.m3u8
+#EXTINF:-1,VIP: US WWE
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9075.m3u8
+#EXTINF:-1,VIP: US VIP: USA Networkk
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9081.m3u8
+#EXTINF:-1,VIP: US TBS HD
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9084.m3u8
+#EXTINF:-1,VIP: US PBS Vermont
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9080.m3u8
+#EXTINF:-1,VIP: US Fox5
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9076.m3u8
+#EXTINF:-1,VIP: US CW
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9077.m3u8
+#EXTINF:-1,VIP: US CTV
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9078.m3u8
+#EXTINF:-1,VIP: US TSN5
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9036.m3u8
+#EXTINF:-1,VIP: US TSN4
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9035.m3u8
+#EXTINF:-1,VIP: US TSN3
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9034.m3u8
+#EXTINF:-1,VIP: US TSN2
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9033.m3u8
+#EXTINF:-1,VIP: US TSN1
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9032.m3u8
+#EXTINF:-1,VIP: US CNBC
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9028.m3u8
+#EXTINF:-1,VIP: US CNN
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9029.m3u8
+#EXTINF:-1,VIP: US POCKER CENTRAL
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9011.m3u8
+#EXTINF:-1,VIP: US NICK
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9012.m3u8
+#EXTINF:-1,VIP: US NBC SPORT
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9008.m3u8
+#EXTINF:-1,VIP: US NBC
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9009.m3u8
+#EXTINF:-1,VIP: US NBA
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9010.m3u8
+#EXTINF:-1,VIP: US SYFY
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9024.m3u8
+#EXTINF:-1,VIP: US ID
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9013.m3u8
+#EXTINF:-1,VIP: US HIFI
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9014.m3u8
+#EXTINF:-1,VIP: US HBO ZONE
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9015.m3u8
+#EXTINF:-1,VIP: US HBO SIGNATURE
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9016.m3u8
+#EXTINF:-1,VIP: US HBO COMEDY
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9017.m3u8
+#EXTINF:-1,VIP: US HBO
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9018.m3u8
+#EXTINF:-1,VIP: US HALLMARK
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9025.m3u8
+#EXTINF:-1,VIP: US H2
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9019.m3u8
+#EXTINF:-1,VIP: US GOLF
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9020.m3u8
+#EXTINF:-1,VIP: US FOX SPORTS 2
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9030.m3u8
+#EXTINF:-1,VIP: US FOX SPORTS 1
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9031.m3u8
+#EXTINF:-1,VIP: US ESPN 2
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9022.m3u8
+#EXTINF:-1,VIP: US ESPN 1
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9023.m3u8
+#EXTINF:-1,VIP: US E!
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9021.m3u8
+#EXTINF:-1,VIP: US BOOMERANG
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9027.m3u8
+#EXTINF:-1,VIP: US ABC NEWS
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/9026.m3u8
+#EXTINF:-1,US: TSN Sports 5
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/2645.m3u8
+#EXTINF:-1,US: TSN Sports 4
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/2644.m3u8
+#EXTINF:-1,US: TSN Sports 3
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/2643.m3u8
+#EXTINF:-1,US: TSN Sports 2
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/2642.m3u8
+#EXTINF:-1,US: TSN Sports 1
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/2641.m3u8
+#EXTINF:-1,US: CNBC GOLF
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/2637.m3u8
+#EXTINF:-1,US: Fox Sport 2
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/2636.m3u8
+#EXTINF:-1,US: Fox Sport 1
+http://portal.rapidiptv.com:8080/live/cOWaYTdHZh/cYQ50WcfWj/2635.m3u8
