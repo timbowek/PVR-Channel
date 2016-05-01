@@ -42,9 +42,9 @@ http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL258/PROFILE05.m3u8?totalplay=
 http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL268/PROFILE05.m3u8?totalplay=%2F.ts
 #EXTINF:-1 tvg-id="Total-MX_I270.19643.tutvguia.com" tvg-name="270_GLITZ270GLITZGLITZ_Panregional_(Norte)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png" group-title="Latino",Glitz
 http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL270/PROFILE05.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Total-MX_I262.32262.tutvguia.com" tvg-name="262_FOXLF262FOXLFFox_Life_(Latin_America)" tvg-logo="http://vignette3.wikia.nocookie.net/cumbianinja/images/a/a9/FOX_Life_Logo_Canal_Recortado_Transparente_.png" group-title="Latino",Fox Life
+#EXTINF:-1 tvg-id="Total-MX_I262.32262.tutvguia.com" tvg-name="262_FOXLF262FOXLFFox_Life_(Latin_America)" tvg-logo="https://social.promotiongeeks.com/foxlifephoto/fb/img/logo_foxlife_lg.png" group-title="Latino",Fox Life
 http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL271/PROFILE05.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Total-MX_I272.20020.tutvguia.com" tvg-name="272_DISTCOM272DISTCOMDistrito_Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logo_Distrito_Comedia.png" group-title="Latino",Distrito Comedia
+#EXTINF:-1 tvg-id="Total-MX_I272.20020.tutvguia.com" tvg-name="272_DISTCOM272DISTCOMDistrito_Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Latino",Distrito Comedia
 http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL272/PROFILE05.m3u8?totalpley=%2F.ts
 #EXTINF:-1 tvg-id="Total-MX_I273.32996.tutvguia.com" tvg-name="273_TBS273TBSTBS_Latin_America" tvg-logo="http://vignette3.wikia.nocookie.net/familyguy/images/2/2c/TBS_logo.png" group-title="Latino",TBS
 http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL273/PROFILE05.m3u8?totalplay=%2F.ts
