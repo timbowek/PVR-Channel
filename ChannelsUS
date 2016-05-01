@@ -3,6 +3,9 @@
 #EXTINF:-1,[COLOR yellow]<<<<<<<<< [/COLOR][COLOR red]KODI FLASH TV [/COLOR][COLOR yellow]>>>>>>>>>>[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1,[COLOR blue]<<<<<<<<<<<<[/COLOR][COLOR red]CANALES VIP[/COLOR][COLOR blue]<<<<<<<<<<<<[/COLOR]
+http://0.0.0.0:1234
+
 #EXTM3U
 #EXTINF:0,DISCOVERY CHANNEL
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
@@ -270,32 +273,6 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
 #EXTINF:0,MILENIO
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8
-#EXTINF:-1,[COLOR blue]Fox[/COLOR] 
-http://iptvbox.noip.us:9998/live/atik/atik/264.m3u8
-#EXTINF:-1,[COLOR blue]Discovery Channel[/COLOR]
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,[COLOR blue]Travel Channel[/COLOR]
-http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
-#EXTINF:-1,[COLOR blue]National Geographic[/COLOR]
-http://iptvbox.noip.us:9998/live/atik/atik/267.m3u8
-#EXTINF:-1,[COLOR blue]Canal Estrenos[/COLOR]
-http://iptvbox.noip.us:9998/live/atik/atik/587.m3u8
-#EXTINF:-1,[COLOR blue]Canal Series[/COLOR]
-http://iptvbox.noip.us:9998/live/atik/atik/268.m3u8
-#EXTINF:-1,[COLOR blue]Canal  DCine[/COLOR]
-http://iptvbox.noip.us:9998/live/atik/atik/261.m3u8
-#EXTINF:-1,[COLOR blue]Canal  Comedia[/COLOR]
-http://iptvbox.noip.us:9998/live/atik/atik/275.m3u8
-#EXTINF:-1,[COLOR blue]Canal  Accion[/COLOR]
-http://iptvbox.noip.us:9998/live/atik/atik/262.m3u8
-#EXTINF:-1,[COLOR blue]ES.Canal Xtra[/COLOR]
-http://iptvbox.noip.us:9998/live/atik/atik/586.m3u8
-#EXTINF:-1,[COLOR blue]Hollywood[/COLOR]
-http://iptvbox.noip.us:9998/live/atik/atik/263.m3u8
-#EXTINF:-1,[COLOR blue]Neox[/COLOR]
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-
-
 
 #EXTINF:-1,[COLOR blue]<<<<<<<<<<<<[/COLOR][COLOR red]LATINOAMERICA[/COLOR][COLOR blue]<<<<<<<<<<<<[/COLOR]
 http://0.0.0.0:1234
@@ -697,8 +674,6 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 #EXTINF:-1,[COLOR red]---PREMIUM---SPANISH[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,[COLOR red]FREEWORLD-[/COLOR][COLOR lime]MEDIA-[/COLOR][COLOR blue]CENTER[/COLOR] 
-https://drive.google.com/file/d/0Bx3qBT8wzP7RS3N5QnBfbkZ1ZlE/view?usp=sharing.mp4
 #EXTINF:-1,[COLOR blue]Fox[/COLOR] 
 http://iptvbox.noip.us:9998/live/atik/atik/264.m3u8
 #EXTINF:-1,[COLOR blue]Discovery Channel[/COLOR]
@@ -723,132 +698,3 @@ http://iptvbox.noip.us:9998/live/atik/atik/586.m3u8
 http://iptvbox.noip.us:9998/live/atik/atik/263.m3u8
 #EXTINF:-1,[COLOR blue]Neox[/COLOR]
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-
-#EXTINF:-1,[COLOR red]---PREMIUM-ENGLISH---[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1,Fox
-http://iptvbox.noip.us:9998/live/atik/atik/632.m3u8
-#EXTINF:-1,True Drama
-http://iptvbox.noip.us:9998/live/atik/atik/678.m3u8
-#EXTINF:-1,CBS DRAMA
-http://iptvbox.noip.us:9998/live/atik/atik/1607.m3u8
-#EXTINF:-1,CBS ACTION
-http://iptvbox.noip.us:9998/live/atik/atik/1608.m3u8
-#EXTINF:-1,CBS REALITY
-http://iptvbox.noip.us:9998/live/atik/atik/1606.m3u8
-#EXTINF:-1,BBC One 
-http://iptvbox.noip.us:9998/live/atik/atik/507.m3u8
-#EXTINF:-1,BBC Two 
-http://iptvbox.noip.us:9998/live/atik/atik/505.m3u8
-#EXTINF:-1,BBC Three 
-http://iptvbox.noip.us:9998/live/atik/atik/506.m3u8
-#EXTINF:-1,BBC Four 
-http://iptvbox.noip.us:9998/live/atik/atik/508.m3u8
-#EXTINF:-1,Gold
-http://iptvbox.noip.us:9998/live/atik/atik/1000.m3u8
-#EXTINF:-1,CNBC
-http://iptvbox.noip.us:9998/live/atik/atik/730.m3u8
-#EXTINF:-1,Bein 
-http://iptvbox.noip.us:9998/live/atik/atik/726.m3u8
-#EXTINF:-1,AMC
-http://iptvbox.noip.us:9998/live/atik/atik/724.m3u8
-#EXTINF:-1,ABC News
-http://iptvbox.noip.us:9998/live/atik/atik/723.m3u8
-#EXTINF: 0, FOX NEWS
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3476.m3u8
-#EXTINF:-1,CNN
-http://iptvbox.noip.us:9998/live/atik/atik/1609.m3u8
-#EXTINF:-1,TCL 
-http://iptvbox.noip.us:9998/live/atik/atik/188.m3u8
-#EXTINF:-1,ID
-http://iptvbox.noip.us:9998/live/atik/atik/627.m3u8
-#EXTINF:-1,Syfy Channel
-http://iptvbox.noip.us:9998/live/atik/atik/676.m3u8
-#EXTINF:-1,Universal 
-http://iptvbox.noip.us:9998/live/atik/atik/1037.m3u8
-#EXTINF:-1,FOOD Network
-http://iptvbox.noip.us:9998/live/atik/atik/570.m3u8
-#EXTINF:-1,Cartoon Network
-http://iptvbox.noip.us:9998/live/atik/atik/685.m3u8
-#EXTINF:-1,Nicktoons
-http://iptvbox.noip.us:9998/live/atik/atik/625.m3u8
-#EXTINF:-1,Nick JR
-http://iptvbox.noip.us:9998/live/atik/atik/681.m3u8
-#EXTINF:-1,NICKLEODON
-http://iptvbox.noip.us:9998/live/atik/atik/221.m3u8
-#EXTINF:-1,Disney XD
-http://iptvbox.noip.us:9998/live/atik/atik/684.m3u8
-#EXTINF:-1,Disney Junior
-http://iptvbox.noip.us:9998/live/atik/atik/628.m3u8
-#EXTINF:-1,Disney Channel 
-http://iptvbox.noip.us:9998/live/atik/atik/682.m3u8
-#EXTINF:-1,Discovery Turbo
-http://iptvbox.noip.us:9998/live/atik/atik/1040.m3u8
-#EXTINF:-1,Discovery Channel
-http://iptvbox.noip.us:9998/live/atik/atik/1041.m3u8
-#EXTINF:-1,Animal Planet
-http://iptvbox.noip.us:9998/live/atik/atik/630.m3u8
-#EXTINF:-1,National Geographic
-http://iptvbox.noip.us:9998/live/atik/atik/222.m3u8
-#EXTINF:-1,Nat geo wild
-http://iptvbox.noip.us:9998/live/atik/atik/474.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://iptvbox.noip.us:9998/live/atik/atik/223.m3u8
-#EXTINF:-1,Discovery Science 
-http://iptvbox.noip.us:9998/live/atik/atik/624.m3u8
-#EXTINF:-1,DISCOVERY HISTORY
-http://iptvbox.noip.us:9998/live/atik/atik/629.m3u8
-#EXTINF:-1,True Movies1
-http://iptvbox.noip.us:9998/live/atik/atik/675.m3u8
-#EXTINF:-1,True Movies 2
-http://iptvbox.noip.us:9998/live/atik/atik/680.m3u8
-#EXTINF:-1,Sky Movies Action
-http://iptvbox.noip.us:9998/live/atik/atik/210.m3u8
-#EXTINF:-1,Sky Movies Thriller
-http://iptvbox.noip.us:9998/live/atik/atik/201.m3u8
-#EXTINF:-1,Sky Movies ShowCase
-http://iptvbox.noip.us:9998/live/atik/atik/623.m3u8
-#EXTINF:-1,Sky Movies Select
-http://iptvbox.noip.us:9998/live/atik/atik/202.m3u8
-#EXTINF:-1,Sky Movies Premiere
-http://iptvbox.noip.us:9998/live/atik/atik/204.m3u8
-#EXTINF:-1,Sky Movies Greats
-http://iptvbox.noip.us:9998/live/atik/atik/205.m3u8
-#EXTINF:-1,Sky Movies Family
-http://iptvbox.noip.us:9998/live/atik/atik/206.m3u8
-#EXTINF:-1,Sky Movies Drama & Romance
-http://iptvbox.noip.us:9998/live/atik/atik/207.m3u8
-#EXTINF:-1,Sky Movies Disney
-http://iptvbox.noip.us:9998/live/atik/atik/208.m3u8
-#EXTINF:-1,Sky Movie Sci-Fi & horror
-http://iptvbox.noip.us:9998/live/atik/atik/211.m3u8
-#EXTINF:-1,Sky Movies Thriller
-http://iptvbox.noip.us:9998/live/atik/atik/615.m3u8
-#EXTINF:-1,Sky Movies Sci-Fi & Horror
-http://iptvbox.noip.us:9998/live/atik/atik/616.m3u8
-#EXTINF:-1,Sky Movies Modern HD
-http://iptvbox.noip.us:9998/live/atik/atik/674.m3u8
-#EXTINF:-1,Sky Movies Action & Adventure
-http://iptvbox.noip.us:9998/live/atik/atik/614.m3u8
-#EXTINF:-1,Movies-4men 
-http://iptvbox.noip.us:9998/live/atik/atik/679.m3u8
-#EXTINF:-1,Sky Movies Comedy
-http://iptvbox.noip.us:9998/live/atik/atik/209.m3u8
-#EXTINF:-1,Drama
-http://iptvbox.noip.us:9998/live/atik/atik/636.m3u8
-#EXTINF:-1,Aliens
-http://iptvbox.noip.us:9998/live/atik/atik/637.m3u8
-#EXTINF:-1,MOVIES ACTION
-http://iptvbox.noip.us:9998/live/atik/atik/634.m3u8
-#EXTINF:-1,Film4 
-http://iptvbox.noip.us:9998/live/atik/atik/677.m3u8
-#EXTINF:-1,MTV 
-http://iptvbox.noip.us:9998/live/atik/atik/1361.m3u8
-#EXTINF:-1,Mtv Music
-http://iptvbox.noip.us:9998/live/atik/atik/962.m3u8
-#EXTINF:-1,Mtv Rocks
-http://iptvbox.noip.us:9998/live/atik/atik/1372.m3u8
-#EXTINF:-1,iny Pop
-http://iptvbox.noip.us:9998/live/atik/atik/683.m3u8
-
