@@ -279,9 +279,45 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8
 http://0.0.0.0:1234
 
 #EXTM3U
-
 #EXTINF:-1,[COLOR lime]---Mexico---[/COLOR]
 http://?
+
+#EXTINF:0 tvg-name="Canal 10 Chiapas" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal 10 Chiapas" tvg-logo="http://i.imgur.com/nsS4NdH.png" group-title="News",Canal 10 Chiapas (News) (MX) (Spanish)
+rtmp://wos1.smartcast.com.mx/chiapas/chiapastv
+#EXTINF:0 tvg-name="Canal 5 Sabinas" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal 5 Sabinas" tvg-logo="http://i.imgur.com/GpiDAmw.png" group-title="News",Canal 5 Sabinas (News) (MX) (Spanish)
+http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
+#EXTINF:0 tvg-name="Mas Noticias" tvg-language="Spanish" tvg-country="MX" tvg-id="Mas Noticias" tvg-logo="http://www.rtv.org.mx/tvmas/wp-content/uploads/sites/2/2013/03/mas-noticias-1.png" group-title="News",Mas Noticias (News) (MX) (Spanish)
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+#EXTINF:0 tvg-name="Proyecto 40" tvg-language="Spanish" tvg-country="MX" tvg-id="Proyecto 40" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSagmNREcSBYxer7DTFm20-KS9eAXnLmy7xQD3HK80DuZeRe11TZYdfyOI" group-title="News",Proyecto 40 (News) (MX) (Spanish)
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
+#EXTINF:0 tvg-name="RCG TV Coahuila" tvg-language="Spanish" tvg-country="MX" tvg-id="RCG TV Coahuila" tvg-logo="http://i.imgur.com/ZSfFr91.jpg" group-title="News",RCG TV Coahuila (News) (MX) (Spanish)
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:0 tvg-name="Telemar Campeche" tvg-language="Spanish" tvg-country="MX" tvg-id="Telemar Campeche" tvg-logo="http://i.imgur.com/xmx1Kzs.png" group-title="News",Telemar Campeche (News) (MX) (Spanish)
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8?
+#EXTINF:0 tvg-name="Telemax TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Telemax TV" tvg-logo="http://www.telemax.com.mx/wp-content/uploads/2015/03/Logo-Telemax.jpg" group-title="News",Telemax TV (News) (MX) (Spanish)
+http://live-edge01.telecentro.net.ar/live/tlx-480/playlist.m3u8
+#EXTINF:0 tvg-name="TreceVision" tvg-language="Spanish" tvg-country="MX" tvg-id="TreceVision" tvg-logo="http://i.imgur.com/c1yVzHO.png" group-title="News",TreceVision (News) (MX) (Spanish)
+http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8
+#EXTINF:0 tvg-name="TV Acapulco" tvg-language="Spanish" tvg-country="MX" tvg-id="TV Acapulco" tvg-logo="http://i.imgur.com/j4E53rA.jpg" group-title="News",TV Acapulco (News) (MX) (Spanish)
+rtmp://stream.hosteris.com/tvacapulco/tvacapulco
+#EXTINF:0 tvg-name="Canal Once" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal Once" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="Documentary",Canal Once (Documentary) (MX) (Spanish)
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Deliver TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Deliver TV" tvg-logo="http://i.imgur.com/Rgbf8DK.jpg" group-title="Documentary",Deliver TV (Documentary) (MX) (Spanish)
+rtmp://wms.tecnoxia.com:80/8096//8096
+#EXTINF:0 tvg-name="Discovery Channel HD" tvg-language="Spanish" tvg-country="MX" tvg-id="Discovery Channel HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNCJgmHnzO-fQXXf1OsNr4O5egD-LUo2vL9vmD8X5OJafrnluVMSKZzQ" group-title="Documentary",Discovery Channel HD (Documentary) (MX) (Spanish)
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-name="El Amanecer de la Esperanza" tvg-language="Spanish" tvg-country="US" tvg-id="El Amanecer de la Esperanza" tvg-logo="http://www.elamanecer.org/wp/wp-content/uploads/2015/01/2048x1496-e1422669077101.png" group-title="Documentary",El Amanecer de la Esperanza (Documentary) (US) (Spanish)
+http://74.208.145.172:1935/Apps-stream2/smil:movil.smil/playlist.m3u8
+
+#EXTINF:0 tvg-name="C7 Jalisco" tvg-language="Spanish" tvg-country="MX" tvg-id="C7 Jalisco" tvg-logo="http://i.imgur.com/wqWrVq7.png" group-title="News",C7 Jalisco (News) (MX) (Spanish)
+http://74.63.97.188:1935/c7/videoc7/master.m3u8
+#EXTINF:0 tvg-name="Canal del Congreso" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal del Congreso" tvg-logo="http://i.imgur.com/uGSJtw4.png" group-title="News",Canal del Congreso (News) (MX) (Spanish)
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+
+#EXTINF:0 tvg-name="Andalucia TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Andalucia TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUmGkOUj_g3HAX8Iy3gZVaXUxAwPfU_L86Ir3CmIBR9Z43l0Tqr0uhuQ" group-title="News",Andalucia TV (News) (ES) (Spanish)
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:0 tvg-name="Azteca Noticias" tvg-language="Spanish" tvg-country="MX" tvg-id="Azteca Noticias" tvg-logo="http://static.tvazteca.com/aztecanoticias/images/an_logo_horizontal.png" group-title="News",Azteca Noticias (News) (MX) (Spanish)
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 
 #EXTINF:-1,AZTECA NOTICIAS
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
@@ -365,6 +401,7 @@ http://enhd.co:1935/ilive/ilive/playlist.m3u8?
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1075509085.m3u8
 #EXTINF:-1,Canal 66 Mexicali
 http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
+
 
 #EXTINF:-1,[COLOR lime]---Venezuela---[/COLOR]
 http://0.0.0.0:1234
