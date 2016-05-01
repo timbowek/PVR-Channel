@@ -2,8 +2,7 @@
 
 #EXTINF:-1,[COLOR yellow]<<<<<<<<< [/COLOR][COLOR red]KODI FLASH TV [/COLOR][COLOR yellow]>>>>>>>>>>[/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1, 
-http://0.0.0.0:1234
+#EXTINF:-1,     
 
 #EXTINF:-1,[COLOR blue]<<<<<<<<<<<<[/COLOR][COLOR red]CANALES VIP[/COLOR][COLOR blue]<<<<<<<<<<<<[/COLOR]
 http://0.0.0.0:1234
