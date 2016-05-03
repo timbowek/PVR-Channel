@@ -28,8 +28,6 @@ http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL215/PROFILE05.m3u8?totalplay=
 http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL217/PROFILE05.m3u8?totalplay=%2F.ts
 #EXTINF:-1 tvg-id="Total-MX_I218.49820.tutvguia.com" tvg-name="218_UNICAB218UNICABUnicable_(Mexico)" tvg-logo="http://televisa-networks.com/wp-content/uploads/2014/07/logo_unicable-640x7912.png" group-title="Latino",Unicable
 http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL218/PROFILE05.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Univision" tvg-name="Univision" tvg-logo="Univision" group-title="ENTRETENIMIENTO",Univision[COLOR green][B] - Corregido[/COLOR][/B]
-http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=6
 #EXTINF:-1 tvg-id="Total-MX_I253.3343.tutvguia.com" tvg-name="253_BBCINT253BBCINTBBC_World_News" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/c/c1/BBC_Entertainment.png" group-title="Latino",BBC Entertainment
 http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL253/PROFILE05.m3u8?totalplay=%2F.ts
 #EXTINF:-1 tvg-id="Total-MX_I255.2247.tutvguia.com" tvg-name="255_E!255E!E!_Entertainment_Television_(Mexico)" tvg-logo="http://vignette1.wikia.nocookie.net/milgreen/images/2/23/E!_logo.png" group-title="Latino",E! Entertainment Television
