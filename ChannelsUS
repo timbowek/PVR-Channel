@@ -5,6 +5,8 @@ http://0.0.0.0:1234
 #EXTINF:-1,  
 #EXTINF:-1,[COLOR blue]PELEA ---[/COLOR] [COLOR green]Ca[/COLOR][COLOR white]ne[/COLOR][COLOR red]lo[/COLOR] vs. Khan [COLOR blue]---[/COLOR]
 http://featur-iptv.myvnc.com:8000/live/tinkerbell/tinkerbell/349.ts
+#EXTINF:-1,[COLOR blue]PELEA LINK2---[/COLOR] [COLOR green]Ca[/COLOR][COLOR white]ne[/COLOR][COLOR red]lo[/COLOR] vs. Khan [COLOR blue]---[/COLOR]
+http://cp.dmbshare.net:8000/live/pierre/pierre/2831.ts 
 
 
 
