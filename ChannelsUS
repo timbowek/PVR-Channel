@@ -3,6 +3,10 @@
 #EXTINF:-1,[COLOR yellow]///[/COLOR][COLOR red]KODI FLASH TV [/COLOR][COLOR yellow]///[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,  
+#EXTINF:-1,[COLOR BLUE]PELEA ---[/COLOR] [COLOR GREEN]Ca[/COLOR][COLOR WHITE]ne[/COLOR][COLOR RED]lo[/COLOR] vs. Khan [/COLOR][COLOR BLUE]---[/COLOR]
+http://italyvipiptv.dyndns.org:34555/live/barone/barone/1405.ts#sthash.B4w1IMQ3.dpuf
+
+
 
 #EXTINF:0 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/092015/dsc_lockup-04.png",DISCOVERY CHANNEL
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
