@@ -4,7 +4,7 @@
 http://0.0.0.0:1234
 #EXTINF:-1,  
 
-#EXTINF:0 tvg-logo="https://cf.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png",DISCOVERY CHANNEL
+#EXTINF:0 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/092015/dsc_lockup-04.png",DISCOVERY CHANNEL
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
 #EXTINF:0,DISCOVERY THEATER
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
