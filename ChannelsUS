@@ -20,6 +20,8 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 http://158.69.204.186:8000/live/uribeed2_list/uribeed2_list/40.ts
 #EXTINF:-1,UNICABLE
 http://158.69.204.186:8000/live/uribeed2_list/uribeed2_list/31.ts
+#EXTINF:-1,BBC
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL253/PROFILE03.m3u8
 #EXTINF:-1,FOX
 http://158.69.204.186:8000/live/uribeed2_list/uribeed2_list/25.ts
 #EXTINF:-1,WARNER
@@ -74,6 +76,8 @@ http://158.69.204.186:8000/live/uribeed2_list/uribeed2_list/94.ts
 http://158.69.204.186:8000/live/uribeed2_list/uribeed2_list/97.ts
 #EXTINF:-1,BANDAMAX
 http://158.69.204.186:8000/live/uribeed2_list/uribeed2_list/99.ts
+#EXTINF:-1,CANTINAZO T-K
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
 #EXTINF:-1,TNT SERIES
 http://158.69.204.186:8000/live/uribeed2_list/uribeed2_list/33.ts
 #EXTINF:-1,LIFETIME
@@ -212,5 +216,76 @@ http://158.69.204.186:8000/live/uribeed2_list/uribeed2_list/11.ts
 http://158.69.206.198:8000/live/uribeed2_list/uribeed2_list/18.ts
 #EXTINF:-1,MUNDO MAX
 http://158.69.206.198:8000/live/uribeed2_list/uribeed2_list/15.ts
+#EXTINF:-1,EWTN
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlist.m3u8
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Redbull TV
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+#EXTINF:-1,ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 
-
+CANALES HD
+#EXTM3U
+#EXTINF:0,tvg-logo="https://www.izzi.mx/bcanales/img/canal105.png",Canal 5 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,tvg-logo="hhttps://www.izzi.mx/bcanales/img/canal945.png",History HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:0,tvg-logo="https://www.izzi.mx/bcanales/img/canal925.png",Sony (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,Fox (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,Warner Channel HD (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,Universal Channel USA HD (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,FX HD (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,A&E (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,AXN (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,Tru TV HD (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,Comedy Central HD (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,Unicable
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,BBC Entertainment (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL253/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,TNT Series HD (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,Fox Life (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,Nick HD (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,Fox 1 HD (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,Fox Action HD (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,Fox Movies HD (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,Cinecanal+ HD (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,TNT HD (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,Golden HD (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,The Film Zone HD (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,De Pelicula HD (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,AMC HD (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,ESPN HD (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,MTV Live HD (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,Telehit HD (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,VH1 HD (1080)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:0,Disc Kids
+rtmp://videos.visionlatina.tv/LiveATV//asd
+#EXTINF:0,Nat Geo Wild
+rtmp://videos.visionlatina.tv/LiveATV//is!i2
