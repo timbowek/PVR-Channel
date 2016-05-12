@@ -6,7 +6,7 @@ Canales Nacionales
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
 #EXTINF:-1,FORO TV
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
-#EXTINF:-1,CANAL5
+#EXTINF:-1,tvg-logo="https://drive.google.com/open?id=0ByEcqJ1RHx09SjgyQnFjVFRZN2c",CANAL5
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
 #EXTINF:-1,AZTECA 7
 http://158.69.204.186:8000/live/uribeed2_list/uribeed2_list/16.ts
